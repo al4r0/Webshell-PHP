@@ -54,3 +54,4 @@ if (isset($_COOKIE['oculto']))
     header('Location: l.php');
     exit;
 }
+?>
