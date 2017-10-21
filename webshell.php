@@ -1,6 +1,6 @@
 <?php
 
-$codigo_secreto = "pollo";
+$codigo_secreto = "shell-oculta";
 
 
 if (isset($_COOKIE['oculto']))
